@@ -1,0 +1,22 @@
+{
+  "name": "@sirajkhan01/css_utilities",
+  "version": "1.2.1",
+  "description": "classes of css utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khan-Siraj/css_utilities.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Siraj Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khan-Siraj/css_utilities/issues"
+  },
+  "homepage": "https://github.com/Khan-Siraj/css_utilities#readme"
+}
